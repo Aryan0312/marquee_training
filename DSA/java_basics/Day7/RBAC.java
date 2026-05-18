@@ -1,3 +1,4 @@
+package Day7;  
 import java.util.Scanner; 
 
 public class RBAC {

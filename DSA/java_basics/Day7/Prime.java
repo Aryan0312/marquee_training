@@ -1,3 +1,5 @@
+package Day7;
+
 
 public class Prime {
     public static void main(String[] args) {

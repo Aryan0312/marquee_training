@@ -1,4 +1,4 @@
-
+package Day7;
 
 public class Battery {
     public static void main(String[] args) {

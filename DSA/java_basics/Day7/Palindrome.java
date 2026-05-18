@@ -1,3 +1,6 @@
+package Day7;
+
+
 public class Palindrome {
     public static void main(String[] args) {
         int rev = 0;

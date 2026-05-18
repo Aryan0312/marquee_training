@@ -1,3 +1,5 @@
+package Day7;
+
 
 public class OddIn10 {
     public static void main(String[] args) {
