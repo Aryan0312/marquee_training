@@ -1,0 +1,548 @@
+{
+  "Mercury": {
+    "orbiters": [
+      {
+        "name": "Mariner 10",
+        "agency": "NASA",
+        "type": "Flyby/Orbiter",
+        "status": "Inactive",
+        "launch_year": 1973
+      },
+      {
+        "name": "MESSENGER",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 2004
+      },
+      {
+        "name": "BepiColombo",
+        "agency": "ESA/JAXA",
+        "type": "Orbiter",
+        "status": "Active (En Route)",
+        "launch_year": 2018
+      }
+    ]
+  },
+  "Venus": {
+    "orbiters": [
+      {
+        "name": "Venera 9",
+        "agency": "USSR",
+        "type": "Orbiter/Lander",
+        "status": "Inactive",
+        "launch_year": 1975
+      },
+      {
+        "name": "Venera 10",
+        "agency": "USSR",
+        "type": "Orbiter/Lander",
+        "status": "Inactive",
+        "launch_year": 1975
+      },
+      {
+        "name": "Pioneer Venus Orbiter",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 1978
+      },
+      {
+        "name": "Magellan",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 1989
+      },
+      {
+        "name": "Venus Express",
+        "agency": "ESA",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 2005
+      },
+      {
+        "name": "Akatsuki",
+        "agency": "JAXA",
+        "type": "Orbiter",
+        "status": "Inactive/Lost Contact",
+        "launch_year": 2010
+      }
+    ]
+  },
+  "Earth": {
+    "notable_satellites": [
+      {
+        "name": "Hubble Space Telescope",
+        "agency": "NASA/ESA",
+        "type": "Space Telescope",
+        "status": "Active",
+        "launch_year": 1990
+      },
+      {
+        "name": "James Webb Space Telescope",
+        "agency": "NASA/ESA/CSA",
+        "type": "Space Telescope",
+        "status": "Active",
+        "launch_year": 2021
+      },
+      {
+        "name": "International Space Station",
+        "agency": "NASA/Roscosmos/ESA/JAXA/CSA",
+        "type": "Space Station",
+        "status": "Active",
+        "launch_year": 1998
+      }
+    ]
+  },
+  "Moon": {
+    "orbiters": [
+      {
+        "name": "Lunar Reconnaissance Orbiter",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2009
+      },
+      {
+        "name": "Chandrayaan-1",
+        "agency": "ISRO",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 2008
+      },
+      {
+        "name": "Chandrayaan-2 Orbiter",
+        "agency": "ISRO",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2019
+      },
+      {
+        "name": "CAPSTONE",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2022
+      }
+    ],
+    "landers_and_rovers": [
+      {
+        "name": "Luna 2",
+        "agency": "USSR",
+        "type": "Impactor",
+        "status": "Inactive",
+        "launch_year": 1959
+      },
+      {
+        "name": "Luna 9",
+        "agency": "USSR",
+        "type": "Lander",
+        "status": "Inactive",
+        "launch_year": 1966
+      },
+      {
+        "name": "Apollo Lunar Module",
+        "agency": "NASA",
+        "type": "Crewed Lander",
+        "status": "Inactive",
+        "launch_year": 1969
+      },
+      {
+        "name": "Yutu",
+        "agency": "CNSA",
+        "type": "Rover",
+        "status": "Inactive",
+        "launch_year": 2013
+      },
+      {
+        "name": "Yutu-2",
+        "agency": "CNSA",
+        "type": "Rover",
+        "status": "Active",
+        "launch_year": 2018
+      },
+      {
+        "name": "Pragyan",
+        "agency": "ISRO",
+        "type": "Rover",
+        "status": "Inactive",
+        "launch_year": 2023
+      }
+    ]
+  },
+  "Mars": {
+    "orbiters": [
+      {
+        "name": "Mariner 9",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 1971
+      },
+      {
+        "name": "Viking 1 Orbiter",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 1975
+      },
+      {
+        "name": "Viking 2 Orbiter",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 1975
+      },
+      {
+        "name": "Mars Global Surveyor",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 1996
+      },
+      {
+        "name": "2001 Mars Odyssey",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2001
+      },
+      {
+        "name": "Mars Express",
+        "agency": "ESA",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2003
+      },
+      {
+        "name": "Mars Reconnaissance Orbiter",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2005
+      },
+      {
+        "name": "MAVEN",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2013
+      },
+      {
+        "name": "Mangalyaan",
+        "agency": "ISRO",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 2013
+      },
+      {
+        "name": "ExoMars Trace Gas Orbiter",
+        "agency": "ESA/Roscosmos",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2016
+      },
+      {
+        "name": "Hope Probe",
+        "agency": "UAE",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2020
+      },
+      {
+        "name": "Tianwen-1 Orbiter",
+        "agency": "CNSA",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2020
+      }
+    ],
+    "landers_and_rovers": [
+      {
+        "name": "Viking 1 Lander",
+        "agency": "NASA",
+        "type": "Lander",
+        "status": "Inactive",
+        "launch_year": 1975
+      },
+      {
+        "name": "Viking 2 Lander",
+        "agency": "NASA",
+        "type": "Lander",
+        "status": "Inactive",
+        "launch_year": 1975
+      },
+      {
+        "name": "Sojourner",
+        "agency": "NASA",
+        "type": "Rover",
+        "status": "Inactive",
+        "launch_year": 1996
+      },
+      {
+        "name": "Spirit",
+        "agency": "NASA",
+        "type": "Rover",
+        "status": "Inactive",
+        "launch_year": 2003
+      },
+      {
+        "name": "Opportunity",
+        "agency": "NASA",
+        "type": "Rover",
+        "status": "Inactive",
+        "launch_year": 2003
+      },
+      {
+        "name": "Phoenix",
+        "agency": "NASA",
+        "type": "Lander",
+        "status": "Inactive",
+        "launch_year": 2007
+      },
+      {
+        "name": "Curiosity",
+        "agency": "NASA",
+        "type": "Rover",
+        "status": "Active",
+        "launch_year": 2011
+      },
+      {
+        "name": "InSight",
+        "agency": "NASA",
+        "type": "Lander",
+        "status": "Inactive",
+        "launch_year": 2018
+      },
+      {
+        "name": "Perseverance",
+        "agency": "NASA",
+        "type": "Rover",
+        "status": "Active",
+        "launch_year": 2020
+      },
+      {
+        "name": "Ingenuity",
+        "agency": "NASA",
+        "type": "Helicopter",
+        "status": "Inactive",
+        "launch_year": 2020
+      },
+      {
+        "name": "Zhurong",
+        "agency": "CNSA",
+        "type": "Rover",
+        "status": "Inactive/Silent",
+        "launch_year": 2020
+      }
+    ]
+  },
+  "Jupiter": {
+    "orbiters": [
+      {
+        "name": "Galileo",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Inactive",
+        "launch_year": 1989
+      },
+      {
+        "name": "Juno",
+        "agency": "NASA",
+        "type": "Orbiter",
+        "status": "Active",
+        "launch_year": 2011
+      },
+      {
+        "name": "Europa Clipper",
+        "agency": "NASA",
+        "type": "Orbiter/Flyby",
+        "status": "Active (En Route)",
+        "launch_year": 2024
+      },
+      {
+        "name": "JUICE",
+        "agency": "ESA",
+        "type": "Orbiter",
+        "status": "Active (En Route)",
+        "launch_year": 2023
+      }
+    ],
+    "flybys": [
+      {
+        "name": "Pioneer 10",
+        "agency": "NASA",
+        "type": "Flyby",
+        "status": "Inactive",
+        "launch_year": 1972
+      },
+      {
+        "name": "Pioneer 11",
+        "agency": "NASA",
+        "type": "Flyby",
+        "status": "Inactive",
+        "launch_year": 1973
+      },
+      {
+        "name": "Voyager 1",
+        "agency": "NASA",
+        "type": "Flyby",
+        "status": "Active",
+        "launch_year": 1977
+      },
+      {
+        "name": "Voyager 2",
+        "agency": "NASA",
+        "type": "Flyby",
+        "status": "Active",
+        "launch_year": 1977
+      }
+    ]
+  },
+  "Saturn": {
+    "orbiters": [
+      {
+        "name": "Cassini-Huygens",
+        "agency": "NASA/ESA/ASI",
+        "type": "Orbiter/Lander",
+        "status": "Inactive",
+        "launch_year": 1997
+      }
+    ],
+    "future_missions": [
+      {
+        "name": "Dragonfly",
+        "agency": "NASA",
+        "type": "Rotorcraft Lander",
+        "status": "Planned",
+        "launch_year": 2028
+      }
+    ]
+  },
+  "Uranus": {
+    "flybys": [
+      {
+        "name": "Voyager 2",
+        "agency": "NASA",
+        "type": "Flyby",
+        "status": "Active",
+        "launch_year": 1977
+      }
+    ]
+  },
+  "Neptune": {
+    "flybys": [
+      {
+        "name": "Voyager 2",
+        "agency": "NASA",
+        "type": "Flyby",
+        "status": "Active",
+        "launch_year": 1977
+      }
+    ]
+  },
+  "Pluto": {
+    "flybys": [
+      {
+        "name": "New Horizons",
+        "agency": "NASA",
+        "type": "Flyby",
+        "status": "Active",
+        "launch_year": 2006
+      }
+    ]
+  },
+  "Asteroids_and_Comets": {
+    "missions": [
+      {
+        "name": "Rosetta",
+        "agency": "ESA",
+        "type": "Comet Orbiter/Lander",
+        "status": "Inactive",
+        "launch_year": 2004
+      },
+      {
+        "name": "Dawn",
+        "agency": "NASA",
+        "type": "Asteroid Orbiter",
+        "status": "Inactive",
+        "launch_year": 2007
+      },
+      {
+        "name": "Hayabusa",
+        "agency": "JAXA",
+        "type": "Sample Return",
+        "status": "Inactive",
+        "launch_year": 2003
+      },
+      {
+        "name": "Hayabusa2",
+        "agency": "JAXA",
+        "type": "Sample Return",
+        "status": "Active",
+        "launch_year": 2014
+      },
+      {
+        "name": "OSIRIS-REx",
+        "agency": "NASA",
+        "type": "Sample Return",
+        "status": "Mission Complete",
+        "launch_year": 2016
+      },
+      {
+        "name": "OSIRIS-APEX",
+        "agency": "NASA",
+        "type": "Asteroid Mission",
+        "status": "Active",
+        "launch_year": 2016
+      },
+      {
+        "name": "Lucy",
+        "agency": "NASA",
+        "type": "Asteroid Flyby",
+        "status": "Active",
+        "launch_year": 2021
+      },
+      {
+        "name": "Psyche",
+        "agency": "NASA",
+        "type": "Asteroid Orbiter",
+        "status": "Active (En Route)",
+        "launch_year": 2023
+      }
+    ]
+  },
+  "Interstellar_and_Solar_Missions": {
+    "missions": [
+      {
+        "name": "Voyager 1",
+        "agency": "NASA",
+        "type": "Interstellar Probe",
+        "status": "Active",
+        "launch_year": 1977
+      },
+      {
+        "name": "Voyager 2",
+        "agency": "NASA",
+        "type": "Interstellar Probe",
+        "status": "Active",
+        "launch_year": 1977
+      },
+      {
+        "name": "Parker Solar Probe",
+        "agency": "NASA",
+        "type": "Solar Probe",
+        "status": "Active",
+        "launch_year": 2018
+      },
+      {
+        "name": "Solar Orbiter",
+        "agency": "ESA/NASA",
+        "type": "Solar Orbiter",
+        "status": "Active",
+        "launch_year": 2020
+      }
+    ]
+  }
+}
