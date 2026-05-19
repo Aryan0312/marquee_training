@@ -1,5 +1,5 @@
-package Day7;  
-import java.util.Scanner; 
+package Day7;
+import java.util.Scanner;
 
 public class RBAC {
     public static void main(String[] args) {

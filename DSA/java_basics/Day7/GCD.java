@@ -13,7 +13,10 @@ public class GCD {
             }
         }
 
+
+        // using prime factorization
+
         System.out.println(GCD);
 
-    }    
+    }
 }
