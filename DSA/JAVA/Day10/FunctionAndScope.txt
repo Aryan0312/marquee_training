@@ -1,0 +1,27 @@
+why do we need functions?
+    -readibility
+    -maintainability
+    -modularity
+    -Accessibility
+    -cleaner code
+
+where should functions be written?
+    -functions are called methods in java(OOPS)
+    -they should be placed inside a class but outside the main method
+
+what are parameters?
+    - parameters are the variables written in the function definition
+
+what are arguments?
+    - arguments are the values passed during function call
+
+what is scope?
+    - scope means where a varibale can be accessed in a program
+
+types of scope:
+    -local scope
+        *local scope means inside a method , locally available variable inside a method everywhere
+    
+    -block scope
+        *block scope means a variable declared inside { } and can be accessed only inside the block
+    
