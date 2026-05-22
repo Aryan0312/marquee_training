@@ -1,15 +1,20 @@
 
-public class HalfPyramid {
+public class NormalHollowPyramid {
     public static void main(String[] args) {
-        int n =15;
+        int n = 7;
         for(int i =1;i<=n;i++){
             int spaces = n-i;
             for(int j =1;j<=spaces;j++){
                 System.out.print(" ");
             }
-
             for(int j =1;j<=i;j++){
-                System.out.print("* ");
+                if(i == 1||i==n||j==1||j==i){
+                    System.out.print("* ");
+                }else{
+                    System.out.print("  ");
+                    
+                }
+
             }
             System.out.println();
         }
