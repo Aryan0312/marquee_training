@@ -25,3 +25,5 @@ types of scope:
     -block scope
         *block scope means a variable declared inside { } and can be accessed only inside the block
     
+    -class level scope
+        *scope of variables inside a class and outside a method

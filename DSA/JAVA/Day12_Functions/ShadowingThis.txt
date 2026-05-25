@@ -1,0 +1,6 @@
+Shadowing: when a variable declared in narrower scope shadows the variable declared in broader scope
+    -to counter shadowing you may use this keyword in method to access the class's variable
+
+
+
+this keyword is a reference variable that refers to the current object. It acts like a "self-reference," allowing an object to see or refer to itself from within its own methods or constructors.

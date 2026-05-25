@@ -1,0 +1,16 @@
+what is stack memory?
+    -stack memory is a storage area used to store short lived data and method execution
+    -static methods or variables are stored in static area , which is part of stack memory
+    -follows last in first out
+
+what is stack frame?
+    -stack frame is the area created by any function in the stack where all its details is stored
+
+
+what is heap memory?
+    -a large storage area in computer’s ram where java stores all the objects and instances you create during a program's execution
+    -all the references go into heap memory
+
+
+homework: research heap , stack and how java stores methods objects variables , static variables are stored where and non static variables are stored where?
+

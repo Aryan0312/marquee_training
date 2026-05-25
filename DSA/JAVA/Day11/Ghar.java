@@ -32,7 +32,6 @@ public class Ghar {
         
         // for walls of ghar
         for(int i = 1;i<=s;i++){
-            int spaces = starAtPRow;
             for(int j =1;j<=starAtPRow;j++){
                 System.out.print("  ");
             }
