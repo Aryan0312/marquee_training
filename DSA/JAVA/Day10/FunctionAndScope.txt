@@ -27,3 +27,8 @@ types of scope:
     
     -class level scope
         *scope of variables inside a class and outside a method
+
+
+components of function:
+    acess modifier , modifier , return type , function name , list of parameters, functionbody , return statement
+

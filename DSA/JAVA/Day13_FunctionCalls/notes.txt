@@ -1,0 +1,25 @@
+call by value:
+    - when you pass the value to the function
+
+call by reference:
+    - when you pass the reference to directly change the variable
+
+parameterised function:
+    -function which require arguments to be passed
+
+non parameterised function:
+    -function which does not require arguments to be passed
+
+function overloading:
+    - Method Overloading occurs when multiple methods in the same class have the same name but different parameters (type, number, or both)
+    - you can change the return type of parameters to overload functions with same name
+    -within the same class
+
+function overriding:
+    - Method Overriding happens when a subclass provides a specific implementation for a method already defined in its parent class
+    - when a subclass have the same name function as parent class , but based on the object the implementation is different
+    -@override
+    - within the subclass and parent class
+
+what is recursive functions?
+    - function calling itself within its own body is known as recursive function
