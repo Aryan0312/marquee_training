@@ -1,0 +1,22 @@
+what is array?
+    -array is a data structure that store similar data types together 
+    - array is fixed sized
+
+why do we need array?
+    -to store multiple values of the same type under a single variable name. Instead of creating separate variables for hundreds of items, an array lets you group and organize them efficiently
+
+how to declare array in java?
+    -int[] arr; //declaration
+    -int[] brr = {1,2,3,4,5}; //initialisation
+    -int[] crr = new int[3];
+
+how to get array length?
+    -using the length property/attribute
+    -arr.length;
+
+how in memory array stores elements?
+    -array elements are stored in contigous memory locations in heap memory
+
+in array :
+    - on compile time array syntax is checked and type checking
+    - on runtime memory allocation is done
